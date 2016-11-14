@@ -22,6 +22,9 @@
                 <li>
                     <a href='../ZCashMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZCash</a>
                 </li>
+                <li>
+                    <a href='../ZClassicMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZClassic</a>
+                </li>
             </ul>
         </nav>
         <!-- /#sidebar-wrapper -->
