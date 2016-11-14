@@ -1,6 +1,7 @@
 <?php function echoTopHalf() {
     echo "
-    <link rel='stylesheet' href='../MiningCalcSideBar/style/style.css'>
+
+
     <div id='wrapper'>
         <div class='overlay'></div>
     
@@ -13,13 +14,13 @@
                     </a>
                 </li>
                 <li>
-                    <a href='#'><i class='fa fa-fw fa-home'></i>Bitcoin</a>
+                    <a href='../BitcoinMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Bitcoin</a>
                 </li>
                 <li>
-                    <a href='#'><i class='fa fa-fw fa-folder'></i>Ethereum</a>
+                    <a href='../EthereumMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Ethereum</a>
                 </li>
                 <li>
-                    <a href='#'><i class='fa fa-fw fa-file-o'></i>ZCash</a>
+                    <a href='../ZCashMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZCash</a>
                 </li>
             </ul>
         </nav>
@@ -27,7 +28,8 @@
 
         <!-- Page Content -->
         <div id='page-content-wrapper'>
-          <button type='button' class='hamburger is-closed animated fadeInLeft' data-toggle='offcanvas'>
+          <button type='button' class='hamburger is-closed animated fadeInLeft' data-toggle='offcanvas' id='desktopMenuButton'>
+            <div id='menuText'><h5 style='position: relative; left: 35px; bottom: 2px; white-space:nowrap;'>More Calculators</h5></div>
             <span class='hamb-top'></span>
             <span class='hamb-middle'></span>
             <span class='hamb-bottom'></span>
