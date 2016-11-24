@@ -14,16 +14,19 @@
                     </a>
                 </li>
                 <li>
-                    <a href='../BitcoinMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Bitcoin</a>
+                    <a href='../BitcoinMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Bitcoin (BTC)</a>
                 </li>
                 <li>
-                    <a href='../EthereumMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Ethereum</a>
+                    <a href='../EthereumMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Ethereum (ETH)</a>
                 </li>
                 <li>
-                    <a href='../ZCashMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZCash</a>
+                    <a href='../EthereumClassicMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Eth Classic (ETC)</a>
                 </li>
                 <li>
-                    <a href='../ZClassicMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZClassic</a>
+                    <a href='../ZCashMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZCash (ZEC)</a>
+                </li>
+                <li>
+                    <a href='../ZClassicMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZClassic (ZCL)</a>
                 </li>
             </ul>
         </nav>
