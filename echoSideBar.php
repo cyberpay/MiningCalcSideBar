@@ -14,19 +14,22 @@
                     </a>
                 </li>
                 <li>
-                    <a href='../BitcoinMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Bitcoin (BTC)</a>
+                    <a href='../BitcoinMiningCalculator'><img src='../images/BTC.png'> Bitcoin (BTC)</a>
                 </li>
                 <li>
-                    <a href='../EthereumMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Ethereum (ETH)</a>
+                    <a href='../EthereumMiningCalculator'><img src='../images/ETH.png'> Ethereum (ETH)</a>
                 </li>
                 <li>
-                    <a href='../EthereumClassicMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>Eth Classic (ETC)</a>
+                    <a href='../EthereumClassicMiningCalculator'><img src='../images/ETC.png'> Eth Classic (ETC)</a>
                 </li>
                 <li>
-                    <a href='../ZCashMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZCash (ZEC)</a>
+                    <a href='../MoneroMiningCalculator'><img src='../images/XMR.png'> Monero (XMR)</a>
                 </li>
                 <li>
-                    <a href='../ZClassicMiningCalculator'><i class='fa fa-fw fa-chevron-right'></i>ZClassic (ZCL)</a>
+                    <a href='../ZCashMiningCalculator'><img src='../images/ZEC.png'> ZCash (ZEC)</a>
+                </li>
+                <li>
+                    <a href='../ZClassicMiningCalculator'><img src='../images/ZCL.png'> ZClassic (ZCL)</a>
                 </li>
             </ul>
         </nav>
